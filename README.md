@@ -49,7 +49,7 @@
 <li>Requirements gathering.</li>
 <li>Management of clients and report preparation.</li>
 <li>Planning of projects and execution.</li>
-<li>Practice in Python and AWS.</li>
+<li>Practice in Python, AWS and jira.</li>
 
 <h3>RAPPI 🧭</h3>
 <strong>Data Scientist Jr</strong>
@@ -71,7 +71,7 @@
 <li>Data análisis and data presentation.</li>
 <li>Implementation of automatic processes.</li>
 <li>Form editing (HTML, CSS y JavaScript).</li>
-<li>Java y AWS.</li>
+<li>Java, Swagger y AWS.</li>
 
 <hr/>
 
