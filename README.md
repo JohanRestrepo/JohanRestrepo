@@ -33,8 +33,8 @@
 <h2>🧠 Tech Stack</h2>
 
 <p>
-  <strong>Languages:</strong> Java, JavaScript, Python<br/>
-  <strong>Frameworks:</strong> Spring Boot<br/>
+  <strong>Languages:</strong> Java, JavaScript, Python, HTML, CSS<br/>
+  <strong>Frameworks:</strong> Spring Boot, React<br/>
   <strong>Tools:</strong> GitHub, Scrum, Kanbam<br/>
   <strong>Cloud:</strong> AWS
 </p>
