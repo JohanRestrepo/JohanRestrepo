@@ -36,8 +36,8 @@
   <strong>Languages:</strong> Java, JavaScript, Python, HTML, CSS<br/>
   <strong>Frameworks:</strong> Spring Boot, React<br/>
   <strong>Tools:</strong> GitHub, Scrum, Kanbam<br/>
-  <strong>Design:</strong> SOLID, Repository, Adapter, Factory  
-  <strong>Cloud:</strong> AWS
+  <strong>Design:</strong> SOLID, Repository, Adapter, Factory<br/>
+  <strong>Cloud:</strong> AWS<br/>
 </p>
 
 <hr/>
